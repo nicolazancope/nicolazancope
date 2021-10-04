@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nicolazancope
-- 👀 I’m interested in Physics
-- 🌱 I’m currently studying Physics of fundamental interactions at the University of Padua
+- 📌 I live in Padua, Italy
+- 🎓 Bachelor Degree in Physics at University of Padua
+- 📚 Master student, Physics of fundamental interactions at University of Padua
 
 <!---
 nicolazancope/nicolazancope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
